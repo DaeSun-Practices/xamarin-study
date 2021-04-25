@@ -1,0 +1,15 @@
+C:\Users\song\source\repos\xamarin_practice\xamarin_practice\xamarin_practice\bin\Debug\netstandard2.0\xamarin_practice.deps.json
+C:\Users\song\source\repos\xamarin_practice\xamarin_practice\xamarin_practice\bin\Debug\netstandard2.0\xamarin_practice.dll
+C:\Users\song\source\repos\xamarin_practice\xamarin_practice\xamarin_practice\bin\Debug\netstandard2.0\ref\xamarin_practice.dll
+C:\Users\song\source\repos\xamarin_practice\xamarin_practice\xamarin_practice\bin\Debug\netstandard2.0\xamarin_practice.pdb
+C:\Users\song\source\repos\xamarin_practice\xamarin_practice\xamarin_practice\obj\Debug\netstandard2.0\xamarin_practice.csprojAssemblyReference.cache
+C:\Users\song\source\repos\xamarin_practice\xamarin_practice\xamarin_practice\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\song\source\repos\xamarin_practice\xamarin_practice\xamarin_practice\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\song\source\repos\xamarin_practice\xamarin_practice\xamarin_practice\obj\Debug\netstandard2.0\xamarin_practice.AssemblyInfoInputs.cache
+C:\Users\song\source\repos\xamarin_practice\xamarin_practice\xamarin_practice\obj\Debug\netstandard2.0\xamarin_practice.AssemblyInfo.cs
+C:\Users\song\source\repos\xamarin_practice\xamarin_practice\xamarin_practice\obj\Debug\netstandard2.0\xamarin_practice.csproj.CoreCompileInputs.cache
+C:\Users\song\source\repos\xamarin_practice\xamarin_practice\xamarin_practice\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\song\source\repos\xamarin_practice\xamarin_practice\xamarin_practice\obj\Debug\netstandard2.0\xamarin_practice.dll
+C:\Users\song\source\repos\xamarin_practice\xamarin_practice\xamarin_practice\obj\Debug\netstandard2.0\ref\xamarin_practice.dll
+C:\Users\song\source\repos\xamarin_practice\xamarin_practice\xamarin_practice\obj\Debug\netstandard2.0\xamarin_practice.pdb
+C:\Users\song\source\repos\xamarin_practice\xamarin_practice\xamarin_practice\obj\Debug\netstandard2.0\Page_Desktop.xaml.g.cs

@@ -1,0 +1,1 @@
+C:\Users\song\source\repos\xamarin_practice\xamarin_practice\xamarin_practice.UWP\xamarin_practice.UWP.csproj;x86
